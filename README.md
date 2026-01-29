@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rafaycodeder" alt="abdul-rafaycodeder" /></a> </p>
 
-- 🔭 All of my projects are available at [My portfolio](https://rafay-website.surge.sh/)
-
 - 👯 this is a ecommerce website [khareed lo](https://khareed-loo.netlify.app/)
   
 - My Frist popular project [khareed lo](https://abdul-rafaycodeder.github.io/HTML_CSS_JAVASCRIPT_project_1/)
