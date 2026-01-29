@@ -8,6 +8,10 @@
 - 🔭 All of my projects are available at [My portfolio](https://rafay-website.surge.sh/)
 
 - 👯 this is a ecommerce website [khareed lo](https://khareed-loo.netlify.app/)
+  
+- My Frist popular project [khareed lo](https://abdul-rafaycodeder.github.io/HTML_CSS_JAVASCRIPT_project_1/)
+
+- My Second popular project [khareed lo](https://abdul-rafaycodeder.github.io/HTML_CSS_JAVASCRIPT_project_2/)
 
 - 🤝 How to reach me [gmail](https://abdulrafaycodeder@gmail.com/)
 
